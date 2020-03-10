@@ -1,2 +1,10 @@
-# 03_loanCalc_vanillaJs
-Simple loanCalc, made with pure javaScript + bootStrap 4 for UI
+# Project type : 
+Self assigned passion project 
+# Skills tested : 
+javaScript / bootStrap 4
+# Time taken : 
+2 hrs
+# html code :
+125 lines
+# js code :
+60 lines
