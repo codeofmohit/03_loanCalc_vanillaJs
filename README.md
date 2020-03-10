@@ -5,6 +5,6 @@ javaScript / bootStrap 4
 # Time taken : 
 2 hrs
 # html code :
-125 lines
+99 lines
 # js code :
-60 lines
+180 lines
