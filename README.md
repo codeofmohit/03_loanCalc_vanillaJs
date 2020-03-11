@@ -1,4 +1,4 @@
-# Project type : 
+# Project description : 
 Self assigned passion project 
 # Skills tested : 
 javaScript / bootStrap 4
